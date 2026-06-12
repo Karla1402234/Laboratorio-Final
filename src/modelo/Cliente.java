@@ -17,4 +17,9 @@ public class Cliente {
         System.out.println("Nombre: " + nombre);
         System.out.println("Telefono: " + telefono);
     }
+
+	public void setDireccion(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 }
